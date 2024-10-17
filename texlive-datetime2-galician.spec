@@ -3,7 +3,7 @@ Version:	47631
 Release:	2
 Summary:	Galician language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-galician
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-galician
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-galician.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-galician.doc.r%{version}.tar.xz
